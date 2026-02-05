@@ -1,7 +1,3 @@
-# AI-ML-Assessment-2025-01 group assessment 
-[View my Canva design](https://www.canva.com/design/DAGY5CPXjes/xAVObv02qTYRY3h3UZaAaw/view?utm_content=DAGY5CPXjes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had8489d4f4)
-
-
 # Car Price Prediction (Machine Learning Regression)
 
 > Predict used-car prices from vehicle attributes using a clean, reproducible ML pipeline (EDA → preprocessing → modeling → evaluation).
@@ -12,7 +8,8 @@
 
 ## Quick links
 - 📓 Notebook: `TECH3200_Ass2_Share.ipynb`
-- 🎥 Slides (Canva): **View my Canva design** (link in this repo)
+- 🎥 Slides (Canva): [View my Canva design](https://www.canva.com/design/DAGY5CPXjes/xAVObv02qTYRY3h3UZaAaw/view?utm_content=DAGY5CPXjes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had8489d4f4)
+
 
 ---
 
