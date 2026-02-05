@@ -119,11 +119,3 @@ Built as part of **Kaplan Business School — TECH3200 (Artificial Intelligence 
 
 ---
 
-## Author
-
-**Candy Cheng**
-GitHub: [https://github.com/CandyCheng-git](https://github.com/CandyCheng-git)
-Email: [candycheng.it@gmail.com](mailto:candycheng.it@gmail.com)
-
-```
-
